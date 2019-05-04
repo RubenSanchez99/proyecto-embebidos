@@ -1,0 +1,1 @@
+dotnet run -p ../src/Services/Identity/Identity.API/Identity.API.csproj

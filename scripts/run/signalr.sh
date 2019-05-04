@@ -1,0 +1,1 @@
+dotnet run -p ../src/Services/Ordering/Ordering.SignalrHub/Ordering.SignalrHub.csproj

@@ -1,0 +1,1 @@
+dotnet run -p ../src/Services/Payment/Payment.API/Payment.API.csproj

@@ -1,0 +1,1 @@
+dotnet run -p ../src/Services/Basket/Basket.API/Basket.API.csproj

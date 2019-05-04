@@ -1,0 +1,1 @@
+dotnet run -p ../src/ApiGateways/Web.Bff.Shopping/aggregator/Web.Shopping.HttpAggregator.csproj

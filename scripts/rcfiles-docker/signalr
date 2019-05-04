@@ -1,0 +1,2 @@
+source ~/.bashrc
+sh run-docker/signalr.sh

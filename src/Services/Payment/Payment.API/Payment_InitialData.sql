@@ -1,0 +1,1 @@
+INSERT INTO "Accounts" ("BuyerId","AmountAvailable") VALUES ('574fdb15-8641-424c-9b58-df1c07c9c882', 0), ('a275fcb7-3873-47ae-bb70-fe3aa46172a7', 0)

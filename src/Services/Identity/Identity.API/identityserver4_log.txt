@@ -1,0 +1,898 @@
+2018-11-15 11:19:13.892 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-11-15 11:19:13.959 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-11-15 11:19:13.967 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-11-15 11:19:13.969 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-11-15 11:19:13.970 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-11-15 11:19:13.971 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-11-15 11:40:06.634 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-11-15 11:40:06.704 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-11-15 11:40:06.712 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-11-15 11:40:06.713 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-11-15 11:40:06.714 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-11-15 11:40:06.714 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-11-15 11:51:54.169 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-11-15 11:51:54.241 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-11-15 11:51:54.249 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-11-15 11:51:54.250 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-11-15 11:51:54.250 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-11-15 11:51:54.251 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-10 10:59:26.108 -06:00 [WRN] No XML encryptor configured. Key "e08b9f98-dcb1-485d-a118-ad3787ff1d6c" may be persisted to storage in unencrypted form.
+2019-01-10 10:59:26.543 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-10 10:59:26.549 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-10 10:59:26.572 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-10 10:59:26.573 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-10 10:59:26.573 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-10 10:59:26.574 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-10 10:59:26.575 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-10 11:00:05.937 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-10 11:00:05.988 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-10 11:00:06.016 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-10 11:00:06.017 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-10 11:00:06.018 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-10 11:00:06.018 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-10 11:00:06.019 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-10 11:00:32.094 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-10 11:00:32.147 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-10 11:00:32.175 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-10 11:00:32.176 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-10 11:00:32.176 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-10 11:00:32.177 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-10 11:00:32.177 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-18 13:44:08.658 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-18 13:44:08.730 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-18 13:44:08.764 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-18 13:44:08.765 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-18 13:44:08.766 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-18 13:44:08.766 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-18 13:44:08.767 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-18 15:02:49.289 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-18 15:02:49.354 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-18 15:02:49.383 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-18 15:02:49.383 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-18 15:02:49.384 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-18 15:02:49.384 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-18 15:02:49.385 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-18 15:13:25.780 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-18 15:13:25.858 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-18 15:13:25.894 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-18 15:13:25.895 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-18 15:13:25.895 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-18 15:13:25.896 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-18 15:13:25.896 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-18 15:28:34.670 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:34.737 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:34.787 -06:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-01-18 15:28:34.810 -06:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-01-18 15:28:34.811 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-01-18 15:28:34.842 -06:00 [DBG] Start authorize request
+2019-01-18 15:28:34.872 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:34.885 -06:00 [DBG] No user present in authorize request
+2019-01-18 15:28:34.902 -06:00 [DBG] Start authorize request protocol validation
+2019-01-18 15:28:34.925 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-18 15:28:34.934 -06:00 [DBG] Checking for PKCE parameters
+2019-01-18 15:28:34.937 -06:00 [DBG] No PKCE used.
+2019-01-18 15:28:35.010 -06:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-01-18 15:28:35.125 -06:00 [INF] ValidatedAuthorizeRequest
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "AllowedRedirectUris": [
+    "https://www.getpostman.com/oauth2/callback"
+  ],
+  "SubjectId": "anonymous",
+  "ResponseType": "code",
+  "ResponseMode": "query",
+  "GrantType": "authorization_code",
+  "RequestedScopes": "basket webshoppingagg orders",
+  "Raw": {
+    "response_type": "code",
+    "state": "",
+    "client_id": "postman",
+    "scope": "basket webshoppingagg orders",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback"
+  }
+}
+2019-01-18 15:28:35.139 -06:00 [INF] Showing login: User is not authenticated
+2019-01-18 15:28:35.275 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:35.276 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:36.061 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:36.063 -06:00 [DBG] Start authorize request protocol validation
+2019-01-18 15:28:36.064 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-18 15:28:36.064 -06:00 [DBG] Checking for PKCE parameters
+2019-01-18 15:28:36.064 -06:00 [DBG] No PKCE used.
+2019-01-18 15:28:36.064 -06:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-01-18 15:28:36.070 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-18 15:28:43.932 -06:00 [DBG] CORS request made for path: /account/login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-01-18 15:28:43.933 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:43.933 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:45.412 -06:00 [DBG] Augmenting SignInContext
+2019-01-18 15:28:45.420 -06:00 [DBG] Adding idp claim with value: local
+2019-01-18 15:28:45.420 -06:00 [DBG] Adding amr claim with value: pwd
+2019-01-18 15:28:45.421 -06:00 [DBG] Adding auth_time claim with value: 1547846925
+2019-01-18 15:28:45.428 -06:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2019-01-18 15:28:45.492 -06:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2019-01-18 15:28:45.682 -06:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Username": "bob",
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "DisplayName": "bob",
+  "Endpoint": "UI",
+  "ActivityId": "0HLJTHFJ66GC8:00000003",
+  "TimeStamp": "2019-01-18T21:28:45Z",
+  "ProcessId": 19846,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-18 15:28:45.847 -06:00 [DBG] Request path /connect/authorize/callback matched to endpoint type Authorize
+2019-01-18 15:28:45.848 -06:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeCallbackEndpoint
+2019-01-18 15:28:45.849 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeCallbackEndpoint for /connect/authorize/callback
+2019-01-18 15:28:45.869 -06:00 [DBG] Start authorize callback request
+2019-01-18 15:28:45.881 -06:00 [DBG] User in authorize request: a275fcb7-3873-47ae-bb70-fe3aa46172a7
+2019-01-18 15:28:45.881 -06:00 [DBG] Start authorize request protocol validation
+2019-01-18 15:28:45.882 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-18 15:28:45.882 -06:00 [DBG] Checking for PKCE parameters
+2019-01-18 15:28:45.882 -06:00 [DBG] No PKCE used.
+2019-01-18 15:28:45.882 -06:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-01-18 15:28:45.883 -06:00 [INF] ValidatedAuthorizeRequest
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "AllowedRedirectUris": [
+    "https://www.getpostman.com/oauth2/callback"
+  ],
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "ResponseType": "code",
+  "ResponseMode": "query",
+  "GrantType": "authorization_code",
+  "RequestedScopes": "basket webshoppingagg orders",
+  "SessionId": "c4f3d07f7800f2d0d9517e76b7fac944",
+  "Raw": {
+    "response_type": "code",
+    "state": "",
+    "client_id": "postman",
+    "scope": "basket webshoppingagg orders",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback"
+  }
+}
+2019-01-18 15:28:46.010 -06:00 [DBG] Client is configured to not require consent, no consent is required
+2019-01-18 15:28:46.023 -06:00 [DBG] Creating Authorization Code Flow response.
+2019-01-18 15:28:46.086 -06:00 [INF] {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "Endpoint": "Authorize",
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "Scopes": "basket webshoppingagg orders",
+  "GrantType": "authorization_code",
+  "Tokens": [
+    {
+      "TokenType": "code",
+      "TokenValue": "****c352"
+    }
+  ],
+  "ActivityId": "0HLJTHFJ66GC8:00000004",
+  "TimeStamp": "2019-01-18T21:28:46Z",
+  "ProcessId": 19846,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-18 15:28:46.092 -06:00 [INF] Authorize endpoint response
+{
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "ClientId": "postman",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "Scope": "basket webshoppingagg orders"
+}
+2019-01-18 15:28:46.129 -06:00 [DBG] Augmenting SignInContext
+2019-01-18 15:28:46.130 -06:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2019-01-18 15:28:46.979 -06:00 [DBG] Request path /connect/token matched to endpoint type Token
+2019-01-18 15:28:46.990 -06:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2019-01-18 15:28:46.990 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2019-01-18 15:28:47.018 -06:00 [DBG] Start token request.
+2019-01-18 15:28:47.040 -06:00 [DBG] Start client validation
+2019-01-18 15:28:47.056 -06:00 [DBG] Start parsing Basic Authentication secret
+2019-01-18 15:28:47.057 -06:00 [DBG] Parser found secret: BasicAuthenticationSecretParser
+2019-01-18 15:28:47.057 -06:00 [DBG] Secret id found: postman
+2019-01-18 15:28:47.058 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-18 15:28:47.080 -06:00 [DBG] Secret validator success: HashedSharedSecretValidator
+2019-01-18 15:28:47.081 -06:00 [DBG] Client validation success
+2019-01-18 15:28:47.089 -06:00 [INF] {
+  "Name": "Client Authentication Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1010,
+  "ClientId": "postman",
+  "AuthenticationMethod": "SharedSecret",
+  "ActivityId": "0HLJTHFJ66GCA:00000001",
+  "TimeStamp": "2019-01-18T21:28:47Z",
+  "ProcessId": 19846,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-18 15:28:47.101 -06:00 [DBG] Start token request validation
+2019-01-18 15:28:47.121 -06:00 [DBG] Start validation of authorization code token request
+2019-01-18 15:28:47.192 -06:00 [DBG] Validation of authorization code token request success
+2019-01-18 15:28:47.207 -06:00 [INF] Token request validation success
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "GrantType": "authorization_code",
+  "AuthorizationCode": "92ada73992ec176b0cce8c4c82789747c59d7aa5e356035dda915a2e2f67c352",
+  "Raw": {
+    "grant_type": "authorization_code",
+    "code": "92ada73992ec176b0cce8c4c82789747c59d7aa5e356035dda915a2e2f67c352",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback",
+    "client_id": "postman"
+  }
+}
+2019-01-18 15:28:47.265 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-18 15:28:47.305 -06:00 [DBG] Getting claims for access token for client: postman
+2019-01-18 15:28:47.306 -06:00 [DBG] Getting claims for access token for subject: a275fcb7-3873-47ae-bb70-fe3aa46172a7
+2019-01-18 15:28:47.327 -06:00 [DBG] Claim types from profile service that were filtered: ["sub"]
+2019-01-18 15:28:47.551 -06:00 [INF] {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "Endpoint": "Token",
+  "Scopes": "basket webshoppingagg orders",
+  "GrantType": "authorization_code",
+  "Tokens": [
+    {
+      "TokenType": "access_token",
+      "TokenValue": "****K-Rw"
+    }
+  ],
+  "ActivityId": "0HLJTHFJ66GCA:00000001",
+  "TimeStamp": "2019-01-18T21:28:47Z",
+  "ProcessId": 19846,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-18 15:28:47.554 -06:00 [DBG] Token request success.
+2019-01-18 15:37:02.321 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-18 15:37:02.323 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-18 15:37:02.324 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-18 15:37:02.334 -06:00 [DBG] Start discovery request
+2019-01-18 15:37:02.691 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-18 15:37:02.692 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-18 15:37:02.693 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-18 15:37:02.707 -06:00 [DBG] Start key discovery request
+2019-01-18 15:38:43.768 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-18 15:38:43.770 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-18 15:38:43.770 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-18 15:38:43.771 -06:00 [DBG] Start discovery request
+2019-01-18 15:38:44.137 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-18 15:38:44.138 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-18 15:38:44.138 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-18 15:38:44.138 -06:00 [DBG] Start key discovery request
+2019-01-18 15:40:04.876 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-18 15:40:04.877 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-18 15:40:04.877 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-18 15:40:04.878 -06:00 [DBG] Start discovery request
+2019-01-18 15:40:05.226 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-18 15:40:05.227 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-18 15:40:05.227 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-18 15:40:05.227 -06:00 [DBG] Start key discovery request
+2019-01-18 15:42:24.296 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-18 15:42:24.343 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-18 15:42:24.373 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-18 15:42:24.374 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-18 15:42:24.374 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-18 15:42:24.375 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-18 15:42:24.375 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-18 15:42:25.041 -06:00 [FTL] Unable to start Kestrel.
+System.Net.Sockets.SocketException (13): Permission denied
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransport.BindAsync()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.<>c__DisplayClass22_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.AnyIPListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+2019-01-18 15:44:13.241 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-18 15:44:13.287 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-18 15:44:13.312 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-18 15:44:13.312 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-18 15:44:13.313 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-18 15:44:13.313 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-18 15:44:13.313 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-18 15:46:19.528 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-18 15:46:19.556 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-18 15:46:19.556 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-18 15:46:19.565 -06:00 [DBG] Start discovery request
+2019-01-18 15:46:20.301 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-18 15:46:20.304 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-18 15:46:20.304 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-18 15:46:20.321 -06:00 [DBG] Start key discovery request
+2019-01-20 11:35:46.829 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-20 11:35:46.954 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-20 11:35:46.984 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-20 11:35:46.986 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-20 11:35:46.986 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-20 11:35:46.987 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-20 11:35:46.987 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-20 11:39:58.871 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-20 11:39:58.919 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-20 11:39:58.945 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-20 11:39:58.945 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-20 11:39:58.946 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-20 11:39:58.946 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-20 11:39:58.947 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-20 11:46:18.874 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-20 11:46:18.928 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-20 11:46:18.958 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-20 11:46:18.959 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-20 11:46:18.960 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-20 11:46:18.960 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-20 11:46:18.961 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-20 13:02:07.869 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-20 13:02:07.940 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-20 13:02:07.970 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-20 13:02:07.971 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-20 13:02:07.972 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-20 13:02:07.972 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-20 13:02:07.973 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-20 13:04:07.315 -06:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-01-20 13:04:07.338 -06:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-01-20 13:04:07.340 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-01-20 13:04:07.349 -06:00 [DBG] Start authorize request
+2019-01-20 13:04:07.382 -06:00 [DBG] User in authorize request: a275fcb7-3873-47ae-bb70-fe3aa46172a7
+2019-01-20 13:04:07.393 -06:00 [DBG] Start authorize request protocol validation
+2019-01-20 13:04:07.416 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 13:04:07.428 -06:00 [DBG] Checking for PKCE parameters
+2019-01-20 13:04:07.432 -06:00 [DBG] No PKCE used.
+2019-01-20 13:04:07.507 -06:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-01-20 13:04:07.624 -06:00 [INF] ValidatedAuthorizeRequest
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "AllowedRedirectUris": [
+    "https://www.getpostman.com/oauth2/callback"
+  ],
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "ResponseType": "code",
+  "ResponseMode": "query",
+  "GrantType": "authorization_code",
+  "RequestedScopes": "basket webshoppingagg orders",
+  "SessionId": "c4f3d07f7800f2d0d9517e76b7fac944",
+  "Raw": {
+    "response_type": "code",
+    "state": "",
+    "client_id": "postman",
+    "scope": "basket webshoppingagg orders",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback"
+  }
+}
+2019-01-20 13:04:07.663 -06:00 [DBG] Client is configured to not require consent, no consent is required
+2019-01-20 13:04:07.673 -06:00 [DBG] Creating Authorization Code Flow response.
+2019-01-20 13:04:07.774 -06:00 [INF] {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "Endpoint": "Authorize",
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "Scopes": "basket webshoppingagg orders",
+  "GrantType": "authorization_code",
+  "Tokens": [
+    {
+      "TokenType": "code",
+      "TokenValue": "****1051"
+    }
+  ],
+  "ActivityId": "0HLJV1868QP5L:00000001",
+  "TimeStamp": "2019-01-20T19:04:07Z",
+  "ProcessId": 10479,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 13:04:07.781 -06:00 [INF] Authorize endpoint response
+{
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "ClientId": "postman",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "Scope": "basket webshoppingagg orders"
+}
+2019-01-20 13:04:09.441 -06:00 [DBG] Request path /connect/token matched to endpoint type Token
+2019-01-20 13:04:09.457 -06:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2019-01-20 13:04:09.457 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2019-01-20 13:04:09.480 -06:00 [DBG] Start token request.
+2019-01-20 13:04:09.495 -06:00 [DBG] Start client validation
+2019-01-20 13:04:09.509 -06:00 [DBG] Start parsing Basic Authentication secret
+2019-01-20 13:04:09.511 -06:00 [DBG] Parser found secret: BasicAuthenticationSecretParser
+2019-01-20 13:04:09.511 -06:00 [DBG] Secret id found: postman
+2019-01-20 13:04:09.511 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 13:04:09.534 -06:00 [DBG] Secret validator success: HashedSharedSecretValidator
+2019-01-20 13:04:09.534 -06:00 [DBG] Client validation success
+2019-01-20 13:04:09.548 -06:00 [INF] {
+  "Name": "Client Authentication Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1010,
+  "ClientId": "postman",
+  "AuthenticationMethod": "SharedSecret",
+  "ActivityId": "0HLJV1868QP5N:00000001",
+  "TimeStamp": "2019-01-20T19:04:09Z",
+  "ProcessId": 10479,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 13:04:09.659 -06:00 [DBG] Start token request validation
+2019-01-20 13:04:09.680 -06:00 [DBG] Start validation of authorization code token request
+2019-01-20 13:04:09.747 -06:00 [DBG] Validation of authorization code token request success
+2019-01-20 13:04:09.760 -06:00 [INF] Token request validation success
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "GrantType": "authorization_code",
+  "AuthorizationCode": "abbe0d9e6e209650d73ed4423cb027b3f08612cdeee74e8e54356fccfdca1051",
+  "Raw": {
+    "grant_type": "authorization_code",
+    "code": "abbe0d9e6e209650d73ed4423cb027b3f08612cdeee74e8e54356fccfdca1051",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback",
+    "client_id": "postman"
+  }
+}
+2019-01-20 13:04:09.796 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 13:04:09.835 -06:00 [DBG] Getting claims for access token for client: postman
+2019-01-20 13:04:09.837 -06:00 [DBG] Getting claims for access token for subject: a275fcb7-3873-47ae-bb70-fe3aa46172a7
+2019-01-20 13:04:09.864 -06:00 [DBG] Claim types from profile service that were filtered: ["sub"]
+2019-01-20 13:04:10.063 -06:00 [INF] {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "Endpoint": "Token",
+  "Scopes": "basket webshoppingagg orders",
+  "GrantType": "authorization_code",
+  "Tokens": [
+    {
+      "TokenType": "access_token",
+      "TokenValue": "****OItg"
+    }
+  ],
+  "ActivityId": "0HLJV1868QP5N:00000001",
+  "TimeStamp": "2019-01-20T19:04:10Z",
+  "ProcessId": 10479,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 13:04:10.065 -06:00 [DBG] Token request success.
+2019-01-20 13:04:16.897 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-20 13:04:16.899 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-20 13:04:16.899 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-20 13:04:16.909 -06:00 [DBG] Start discovery request
+2019-01-20 13:04:17.208 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-20 13:04:17.211 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-20 13:04:17.212 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-20 13:04:17.222 -06:00 [DBG] Start key discovery request
+2019-01-20 13:04:18.269 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-20 13:04:18.271 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-20 13:04:18.271 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-20 13:04:18.272 -06:00 [DBG] Start discovery request
+2019-01-20 13:04:18.640 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-20 13:04:18.641 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-20 13:04:18.642 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-20 13:04:18.642 -06:00 [DBG] Start key discovery request
+2019-01-20 13:04:20.570 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-20 13:04:20.571 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-20 13:04:20.572 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-20 13:04:20.573 -06:00 [DBG] Start discovery request
+2019-01-20 13:04:20.940 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-20 13:04:20.940 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-20 13:04:20.941 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-20 13:04:20.941 -06:00 [DBG] Start key discovery request
+2019-01-20 15:11:55.106 -06:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-01-20 15:11:55.108 -06:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-01-20 15:11:55.108 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-01-20 15:11:55.109 -06:00 [DBG] Start authorize request
+2019-01-20 15:11:55.110 -06:00 [DBG] User in authorize request: a275fcb7-3873-47ae-bb70-fe3aa46172a7
+2019-01-20 15:11:55.110 -06:00 [DBG] Start authorize request protocol validation
+2019-01-20 15:11:55.110 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 15:11:55.111 -06:00 [DBG] Checking for PKCE parameters
+2019-01-20 15:11:55.111 -06:00 [DBG] No PKCE used.
+2019-01-20 15:11:55.112 -06:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-01-20 15:11:55.113 -06:00 [INF] ValidatedAuthorizeRequest
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "AllowedRedirectUris": [
+    "https://www.getpostman.com/oauth2/callback"
+  ],
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "ResponseType": "code",
+  "ResponseMode": "query",
+  "GrantType": "authorization_code",
+  "RequestedScopes": "basket webshoppingagg orders",
+  "SessionId": "c4f3d07f7800f2d0d9517e76b7fac944",
+  "Raw": {
+    "response_type": "code",
+    "state": "",
+    "client_id": "postman",
+    "scope": "basket webshoppingagg orders",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback"
+  }
+}
+2019-01-20 15:11:55.114 -06:00 [DBG] Client is configured to not require consent, no consent is required
+2019-01-20 15:11:55.114 -06:00 [DBG] Creating Authorization Code Flow response.
+2019-01-20 15:11:55.204 -06:00 [INF] {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "Endpoint": "Authorize",
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "Scopes": "basket webshoppingagg orders",
+  "GrantType": "authorization_code",
+  "Tokens": [
+    {
+      "TokenType": "code",
+      "TokenValue": "****3987"
+    }
+  ],
+  "ActivityId": "0HLJV1868QP5R:00000001",
+  "TimeStamp": "2019-01-20T21:11:55Z",
+  "ProcessId": 10479,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 15:11:55.210 -06:00 [INF] Authorize endpoint response
+{
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "ClientId": "postman",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "Scope": "basket webshoppingagg orders"
+}
+2019-01-20 15:11:55.475 -06:00 [DBG] Request path /connect/token matched to endpoint type Token
+2019-01-20 15:11:55.477 -06:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2019-01-20 15:11:55.478 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2019-01-20 15:11:55.478 -06:00 [DBG] Start token request.
+2019-01-20 15:11:55.478 -06:00 [DBG] Start client validation
+2019-01-20 15:11:55.478 -06:00 [DBG] Start parsing Basic Authentication secret
+2019-01-20 15:11:55.478 -06:00 [DBG] Parser found secret: BasicAuthenticationSecretParser
+2019-01-20 15:11:55.478 -06:00 [DBG] Secret id found: postman
+2019-01-20 15:11:55.479 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 15:11:55.479 -06:00 [DBG] Secret validator success: HashedSharedSecretValidator
+2019-01-20 15:11:55.479 -06:00 [DBG] Client validation success
+2019-01-20 15:11:55.479 -06:00 [INF] {
+  "Name": "Client Authentication Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1010,
+  "ClientId": "postman",
+  "AuthenticationMethod": "SharedSecret",
+  "ActivityId": "0HLJV1868QP5T:00000001",
+  "TimeStamp": "2019-01-20T21:11:55Z",
+  "ProcessId": 10479,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 15:11:55.480 -06:00 [DBG] Start token request validation
+2019-01-20 15:11:55.480 -06:00 [DBG] Start validation of authorization code token request
+2019-01-20 15:11:55.510 -06:00 [DBG] Validation of authorization code token request success
+2019-01-20 15:11:55.510 -06:00 [INF] Token request validation success
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "GrantType": "authorization_code",
+  "AuthorizationCode": "f5108f524d6598424d7d2bab0c081b79513aa536e0e11a9196109f45525d3987",
+  "Raw": {
+    "grant_type": "authorization_code",
+    "code": "f5108f524d6598424d7d2bab0c081b79513aa536e0e11a9196109f45525d3987",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback",
+    "client_id": "postman"
+  }
+}
+2019-01-20 15:11:55.511 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 15:11:55.511 -06:00 [DBG] Getting claims for access token for client: postman
+2019-01-20 15:11:55.512 -06:00 [DBG] Getting claims for access token for subject: a275fcb7-3873-47ae-bb70-fe3aa46172a7
+2019-01-20 15:11:55.512 -06:00 [DBG] Claim types from profile service that were filtered: ["sub"]
+2019-01-20 15:11:55.518 -06:00 [INF] {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "Endpoint": "Token",
+  "Scopes": "basket webshoppingagg orders",
+  "GrantType": "authorization_code",
+  "Tokens": [
+    {
+      "TokenType": "access_token",
+      "TokenValue": "****Ke6A"
+    }
+  ],
+  "ActivityId": "0HLJV1868QP5T:00000001",
+  "TimeStamp": "2019-01-20T21:11:55Z",
+  "ProcessId": 10479,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 15:11:55.519 -06:00 [DBG] Token request success.
+2019-01-20 18:46:39.280 -06:00 [WRN] Heartbeat took longer than ""00:00:01"" at ""2019-01-21T00:46:27.4384734+00:00"".
+2019-01-20 18:46:39.280 -06:00 [WRN] Heartbeat took longer than ""00:00:01"" at ""2019-01-21T00:46:27.4998297+00:00"".
+2019-01-20 21:30:31.627 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-20 21:30:31.706 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-20 21:30:31.736 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-20 21:30:31.736 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-20 21:30:31.737 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-20 21:30:31.737 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-20 21:30:31.738 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-20 21:37:23.092 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-20 21:37:23.368 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-20 21:37:23.369 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-20 21:37:23.383 -06:00 [DBG] Start discovery request
+2019-01-20 21:37:24.219 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-20 21:37:24.221 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-20 21:37:24.221 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-20 21:37:24.230 -06:00 [DBG] Start key discovery request
+2019-01-20 21:37:34.561 -06:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-01-20 21:37:34.570 -06:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-01-20 21:37:34.570 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-01-20 21:37:34.579 -06:00 [DBG] Start authorize request
+2019-01-20 21:37:34.664 -06:00 [DBG] User in authorize request: a275fcb7-3873-47ae-bb70-fe3aa46172a7
+2019-01-20 21:37:34.683 -06:00 [DBG] Start authorize request protocol validation
+2019-01-20 21:37:34.719 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 21:37:34.731 -06:00 [DBG] Checking for PKCE parameters
+2019-01-20 21:37:34.735 -06:00 [DBG] No PKCE used.
+2019-01-20 21:37:34.801 -06:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-01-20 21:37:34.822 -06:00 [INF] ValidatedAuthorizeRequest
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "AllowedRedirectUris": [
+    "https://www.getpostman.com/oauth2/callback"
+  ],
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "ResponseType": "code",
+  "ResponseMode": "query",
+  "GrantType": "authorization_code",
+  "RequestedScopes": "basket webshoppingagg orders",
+  "SessionId": "c4f3d07f7800f2d0d9517e76b7fac944",
+  "Raw": {
+    "response_type": "code",
+    "state": "",
+    "client_id": "postman",
+    "scope": "basket webshoppingagg orders",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback"
+  }
+}
+2019-01-20 21:37:34.975 -06:00 [DBG] Client is configured to not require consent, no consent is required
+2019-01-20 21:37:34.986 -06:00 [DBG] Creating Authorization Code Flow response.
+2019-01-20 21:37:35.153 -06:00 [INF] {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "Endpoint": "Authorize",
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "Scopes": "basket webshoppingagg orders",
+  "GrantType": "authorization_code",
+  "Tokens": [
+    {
+      "TokenType": "code",
+      "TokenValue": "****aa7b"
+    }
+  ],
+  "ActivityId": "0HLJVA70B4KF5:00000001",
+  "TimeStamp": "2019-01-21T03:37:35Z",
+  "ProcessId": 6210,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 21:37:35.164 -06:00 [INF] Authorize endpoint response
+{
+  "SubjectId": "a275fcb7-3873-47ae-bb70-fe3aa46172a7",
+  "ClientId": "postman",
+  "RedirectUri": "https://www.getpostman.com/oauth2/callback",
+  "Scope": "basket webshoppingagg orders"
+}
+2019-01-20 21:37:35.803 -06:00 [DBG] Request path /connect/token matched to endpoint type Token
+2019-01-20 21:37:35.821 -06:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2019-01-20 21:37:35.822 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2019-01-20 21:37:35.853 -06:00 [DBG] Start token request.
+2019-01-20 21:37:35.870 -06:00 [DBG] Start client validation
+2019-01-20 21:37:35.882 -06:00 [DBG] Start parsing Basic Authentication secret
+2019-01-20 21:37:35.884 -06:00 [DBG] Parser found secret: BasicAuthenticationSecretParser
+2019-01-20 21:37:35.884 -06:00 [DBG] Secret id found: postman
+2019-01-20 21:37:35.885 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 21:37:35.907 -06:00 [DBG] Secret validator success: HashedSharedSecretValidator
+2019-01-20 21:37:35.907 -06:00 [DBG] Client validation success
+2019-01-20 21:37:35.923 -06:00 [INF] {
+  "Name": "Client Authentication Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1010,
+  "ClientId": "postman",
+  "AuthenticationMethod": "SharedSecret",
+  "ActivityId": "0HLJVA70B4KF7:00000001",
+  "TimeStamp": "2019-01-21T03:37:35Z",
+  "ProcessId": 6210,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 21:37:36.084 -06:00 [DBG] Start token request validation
+2019-01-20 21:37:36.105 -06:00 [DBG] Start validation of authorization code token request
+2019-01-20 21:37:36.248 -06:00 [DBG] Validation of authorization code token request success
+2019-01-20 21:37:36.279 -06:00 [INF] Token request validation success
+{
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "GrantType": "authorization_code",
+  "AuthorizationCode": "dc6e86dc156e506be6c563c9b3a7e3f94283e120c2a8446d34335566aac7aa7b",
+  "Raw": {
+    "grant_type": "authorization_code",
+    "code": "dc6e86dc156e506be6c563c9b3a7e3f94283e120c2a8446d34335566aac7aa7b",
+    "redirect_uri": "https://www.getpostman.com/oauth2/callback",
+    "client_id": "postman"
+  }
+}
+2019-01-20 21:37:36.328 -06:00 [DBG] client configuration validation for client postman succeeded.
+2019-01-20 21:37:36.349 -06:00 [DBG] Getting claims for access token for client: postman
+2019-01-20 21:37:36.350 -06:00 [DBG] Getting claims for access token for subject: a275fcb7-3873-47ae-bb70-fe3aa46172a7
+2019-01-20 21:37:36.366 -06:00 [DBG] Claim types from profile service that were filtered: ["sub"]
+2019-01-20 21:37:36.653 -06:00 [INF] {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "postman",
+  "ClientName": "Postman Test Client",
+  "Endpoint": "Token",
+  "Scopes": "basket webshoppingagg orders",
+  "GrantType": "authorization_code",
+  "Tokens": [
+    {
+      "TokenType": "access_token",
+      "TokenValue": "****mquw"
+    }
+  ],
+  "ActivityId": "0HLJVA70B4KF7:00000001",
+  "TimeStamp": "2019-01-21T03:37:36Z",
+  "ProcessId": 6210,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}
+2019-01-20 21:37:36.660 -06:00 [DBG] Token request success.
+2019-01-20 21:41:42.808 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-01-20 21:41:42.876 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-01-20 21:41:42.877 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-01-20 21:41:42.878 -06:00 [DBG] Start discovery request
+2019-01-20 21:41:43.352 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-01-20 21:41:43.353 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-01-20 21:41:43.354 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-01-20 21:41:43.355 -06:00 [DBG] Start key discovery request
+2019-01-20 22:17:45.009 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-20 22:17:45.153 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-20 22:17:45.191 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-20 22:17:45.198 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-20 22:17:45.204 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-20 22:17:45.205 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-20 22:17:45.207 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-01-20 22:37:24.440 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-01-20 22:37:24.548 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-01-20 22:37:24.579 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-01-20 22:37:24.580 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-01-20 22:37:24.581 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-01-20 22:37:24.581 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-01-20 22:37:24.582 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-03-16 09:50:34.055 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-03-16 09:50:34.158 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-03-16 09:50:34.195 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-03-16 09:50:34.196 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-03-16 09:50:34.197 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-03-16 09:50:34.198 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-03-16 09:50:34.199 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-03-29 22:19:14.290 -06:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-03-29 22:19:14.387 -06:00 [DBG] Custom IssuerUri set to http://identity.api
+2019-03-29 22:19:14.420 -06:00 [DBG] Using Identity.Application as default scheme for authentication
+2019-03-29 22:19:14.420 -06:00 [DBG] Using Identity.External as default scheme for sign-in
+2019-03-29 22:19:14.421 -06:00 [DBG] Using Identity.External as default scheme for sign-out
+2019-03-29 22:19:14.421 -06:00 [DBG] Using Identity.Application as default scheme for challenge
+2019-03-29 22:19:14.421 -06:00 [DBG] Using Identity.Application as default scheme for forbid
+2019-03-29 23:04:04.473 -06:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-03-29 23:04:04.524 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-03-29 23:04:04.525 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-03-29 23:04:04.534 -06:00 [DBG] Start discovery request
+2019-03-29 23:04:05.035 -06:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-03-29 23:04:05.041 -06:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-03-29 23:04:05.042 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-03-29 23:04:05.055 -06:00 [DBG] Start key discovery request
+2019-03-29 23:04:05.259 -06:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-03-29 23:04:05.273 -06:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-03-29 23:04:05.274 -06:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-03-29 23:04:05.288 -06:00 [DBG] Start authorize request
+2019-03-29 23:04:05.338 -06:00 [DBG] No user present in authorize request
+2019-03-29 23:04:05.354 -06:00 [DBG] Start authorize request protocol validation
+2019-03-29 23:04:05.381 -06:00 [DBG] client configuration validation for client mvc succeeded.
+2019-03-29 23:04:05.408 -06:00 [ERR] Invalid redirect_uri: http://localhost:5000/signin-oidc
+{
+  "ClientId": "mvc",
+  "ClientName": "MVC Client",
+  "AllowedRedirectUris": [
+    "http://localhost:5100/signin-oidc"
+  ],
+  "SubjectId": "anonymous",
+  "RequestedScopes": "",
+  "Raw": {
+    "client_id": "mvc",
+    "redirect_uri": "http://localhost:5000/signin-oidc",
+    "response_type": "code id_token",
+    "scope": "openid profile basket webshoppingagg",
+    "response_mode": "form_post",
+    "nonce": "636895190451939689.MjNhMDU2M2YtM2UwNC00MWRmLTkyMzMtOGIwNDM1NzkxOTQ5M2NjN2NkOWMtZDkwMy00YjRhLWJkMDQtYjJiZTk5ODFhNGUy",
+    "state": "CfDJ8Jifi-Cx3F1IoRitN4f_HWykzqrbD6NHFMzQvaRkE-YdKcplurEkqx0NZoPTNHLHtro90mru6m7ZmoOxG6drX--K2ulbfoClV1-gtvirpblqlmsyPoIn7OiXjoh06jdY4sYwLV_QauuviCjmYvHob58tq3hzYQT88yu6ztz2p_K3W7Wwt1PhOKG-2R_tritMzg1ooFGLXkFt2eEy1BqitQ1hLsKlmhqYK7JtdpAgHLwafQsQTvIynIcQJxv3_gRIBeheISO6OLHD1gSLydq2PatnEBRksMi5WcsWyZf2JCMeTOQEIeOXvrKpzTMG65Ad5rMjKmkCBX_bRc5LaeICyts",
+    "x-client-SKU": "ID_NETSTANDARD1_4",
+    "x-client-ver": "5.2.0.0"
+  }
+}
+2019-03-29 23:04:05.414 -06:00 [ERR] Request validation failed
+2019-03-29 23:04:05.414 -06:00 [INF] {
+  "ClientId": "mvc",
+  "ClientName": "MVC Client",
+  "AllowedRedirectUris": [
+    "http://localhost:5100/signin-oidc"
+  ],
+  "SubjectId": "anonymous",
+  "RequestedScopes": "",
+  "Raw": {
+    "client_id": "mvc",
+    "redirect_uri": "http://localhost:5000/signin-oidc",
+    "response_type": "code id_token",
+    "scope": "openid profile basket webshoppingagg",
+    "response_mode": "form_post",
+    "nonce": "636895190451939689.MjNhMDU2M2YtM2UwNC00MWRmLTkyMzMtOGIwNDM1NzkxOTQ5M2NjN2NkOWMtZDkwMy00YjRhLWJkMDQtYjJiZTk5ODFhNGUy",
+    "state": "CfDJ8Jifi-Cx3F1IoRitN4f_HWykzqrbD6NHFMzQvaRkE-YdKcplurEkqx0NZoPTNHLHtro90mru6m7ZmoOxG6drX--K2ulbfoClV1-gtvirpblqlmsyPoIn7OiXjoh06jdY4sYwLV_QauuviCjmYvHob58tq3hzYQT88yu6ztz2p_K3W7Wwt1PhOKG-2R_tritMzg1ooFGLXkFt2eEy1BqitQ1hLsKlmhqYK7JtdpAgHLwafQsQTvIynIcQJxv3_gRIBeheISO6OLHD1gSLydq2PatnEBRksMi5WcsWyZf2JCMeTOQEIeOXvrKpzTMG65Ad5rMjKmkCBX_bRc5LaeICyts",
+    "x-client-SKU": "ID_NETSTANDARD1_4",
+    "x-client-ver": "5.2.0.0"
+  }
+}
+2019-03-29 23:04:05.473 -06:00 [INF] {
+  "Name": "Token Issued Failure",
+  "Category": "Token",
+  "EventType": "Failure",
+  "Id": 2001,
+  "ClientId": "mvc",
+  "ClientName": "MVC Client",
+  "Endpoint": "Authorize",
+  "Scopes": "",
+  "Error": "unauthorized_client",
+  "ErrorDescription": "Invalid redirect_uri",
+  "ActivityId": "0HLLKPKGILKMP:00000001",
+  "TimeStamp": "2019-03-30T05:04:05Z",
+  "ProcessId": 29510,
+  "LocalIpAddress": "::1:5105",
+  "RemoteIpAddress": "::1"
+}

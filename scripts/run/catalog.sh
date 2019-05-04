@@ -1,0 +1,1 @@
+dotnet run -p ../src/Services/Catalog/Catalog.API/Catalog.API.csproj

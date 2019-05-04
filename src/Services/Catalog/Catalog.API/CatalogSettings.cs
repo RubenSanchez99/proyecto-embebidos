@@ -1,0 +1,7 @@
+namespace Catalog.API
+{
+    public class CatalogSettings
+    {
+        public string PicBaseUrl { get;set;}
+    }
+}
